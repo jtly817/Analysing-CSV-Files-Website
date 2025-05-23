@@ -23,8 +23,8 @@ Additional Features: Webpage supports ***light*** or ***dark*** theme and memory
 - HTML/CSS (Jinja2 templates)
 
 ## ▶️ How to Run the Application
-1. Download ***CSV_SQL_Analyzer.zip*** and unzip file.
-2. Open Command prompt in windows inside of ***CSV_SQL_Analyzer*** directory.
+1. Download ***CSV_SQL_Analyzer_App.zip*** and unzip file.
+2. Open Command prompt in windows inside of ***CSV_SQL_Analyzer_App*** directory.
 3. Run command: ***python app.py***
 4. Copy and paste the ***URL*** into browser.
 
