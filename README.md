@@ -1,7 +1,7 @@
 # 📊 Web-Based SQL Query and Plot Recommendation App
 
 This is a Flask web application that allows users to upload CSV files, run SQL queries, and get automated chart recommendations using a trained machine learning model.
-Additional Features: Webpage supports ***light theme*** or ***dark theme*** and memory functions (remembers last modification)
+Additional Features: Webpage supports ***light*** or ***dark*** theme and memory functions (remembers last uploaded csv files & modifications).
 
 ## 🚀 Features
 
@@ -21,6 +21,12 @@ Additional Features: Webpage supports ***light theme*** or ***dark theme*** and 
 - Matplotlib
 - Scikit-learn + PyTorch (for ML)
 - HTML/CSS (Jinja2 templates)
+
+## ▶️ How to Run the Application
+1. Download ***CSV_SQL_Analyzer.zip*** and unzip file.
+2. Open Command prompt in windows inside of ***CSV_SQL_Analyzer*** directory.
+3. Run command: ***python app.py***
+4. Copy and paste the ***URL*** into browser.
 
 ## 🌐 How the Webpage looks
 ### Section 1:
